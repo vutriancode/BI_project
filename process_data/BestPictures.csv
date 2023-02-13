@@ -1,0 +1,95 @@
+,year,film,producer
+0,1927/28,Wings,Famous Players-Lasky
+1,1928/29,The Broadway Melody,Metro-Goldwyn-Mayer
+2,1929/30,All Quiet on the Western Front,Universal
+3,1930/31,Cimarron,RKO Radio
+4,1931/32,Grand Hotel,Metro-Goldwyn-Mayer
+5,1932/33,Cavalcade,Fox
+6,1934,It Happened One Night,Columbia
+7,1935,Mutiny on the Bounty,Metro-Goldwyn-Mayer
+8,1936,The Great Ziegfeld,Metro-Goldwyn-Mayer
+9,1937,The Life of Emile Zola,Warner Bros.
+10,1938,You Can't Take It with You,Columbia
+11,1939,Gone with the Wind,Selznick International Pictures
+12,1940,Rebecca,Selznick International Pictures
+13,1941,How Green Was My Valley,20th Century-Fox
+14,1942,Mrs. Miniver,Metro-Goldwyn-Mayer
+15,1943,Casablanca,Warner Bros.
+16,1944,Going My Way,Paramount
+17,1945,The Lost Weekend,Paramount
+18,1946,The Best Years of Our Lives,Samuel Goldwyn Productions
+19,1947,Gentleman's Agreement,20th Century-Fox
+20,1948,Hamlet,J. Arthur Rank-Two Cities Films
+21,1949,All the King's Men,Columbia
+22,1950,All About Eve,20th Century-Fox
+23,1951,An American in Paris,Arthur Freed
+24,1952,The Greatest Show on Earth,Cecil B. DeMille
+25,1953,From Here to Eternity,Buddy Adler
+26,1954,On the Waterfront,Sam Spiegel
+27,1955,Marty,Harold Hecht
+28,1956,Around the World in 80 Days,Michael Todd
+29,1957,The Bridge on the River Kwai,Sam Spiegel
+30,1958,Gigi,Arthur Freed
+31,1959,Ben-Hur,Sam Zimbalist
+32,1960,The Apartment,Billy Wilder
+33,1961,West Side Story,Robert Wise
+34,1962,Lawrence of Arabia,Sam Spiegel
+35,1963,Tom Jones,Tony Richardson
+36,1964,My Fair Lady,Jack L. Warner
+37,1965,The Sound of Music,Robert Wise
+38,1966,A Man for All Seasons,Fred Zinnemann
+39,1967,In the Heat of the Night,Walter Mirisch
+40,1968,Oliver!,John Woolf
+41,1969,Midnight Cowboy,Jerome Hellman
+42,1970,Patton,Frank McCarthy
+43,1971,The French Connection,Philip D'Antoni
+44,1972,The Godfather,Albert S. Ruddy
+45,1973,The Sting,"Tony Bill, Michael Phillips, and Julia Phillips"
+46,1974,The Godfather Part II,"Francis Ford Coppola, Gray Frederickson, and Fred Roos"
+47,1975,One Flew Over the Cuckoo's Nest,Michael Douglas and Saul Zaentz
+48,1976,Rocky,Irwin Winkler and Robert Chartoff
+49,1977,Annie Hall,Charles H. Joffe
+50,1978,The Deer Hunter,"Barry Spikings, Michael Deeley, Michael Cimino, and John Peverall"
+51,1979,Kramer vs. Kramer,Stanley R. Jaffe
+52,1980,Ordinary People,Ronald L. Schwary
+53,1981,Chariots of Fire,David Puttnam
+54,1982,Gandhi,Richard Attenborough
+55,1983,Terms of Endearment,James L. Brooks
+56,1984,Amadeus,Saul Zaentz
+57,1985,Out of Africa,Sydney Pollack
+58,1986,Platoon,Arnold Kopelson
+59,1987,The Last Emperor,Jeremy Thomas
+60,1988,Rain Man,Mark Johnson
+61,1989,Driving Miss Daisy,Richard D. Zanuck and Lili Fini Zanuck
+62,1990,Dances with Wolves,Jim Wilson and Kevin Costner
+63,1991,The Silence of the Lambs,"Edward Saxon, Kenneth Utt, and Ron Bozman"
+64,1992,Unforgiven,Clint Eastwood
+65,1993,Schindler's List,"Steven Spielberg, Gerald R. Molen, and Branko Lustig"
+66,1994,Forrest Gump,"Wendy Finerman, Steve Tisch, and Steve Starkey"
+67,1995,Braveheart,"Mel Gibson, Alan Ladd Jr., and Bruce Davey"
+68,1996,The English Patient,Saul Zaentz
+69,1997,Titanic,James Cameron and Jon Landau
+70,1998,Shakespeare in Love,"David Parfitt, Donna Gigliotti, Harvey Weinstein, Edward Zwick, and Marc Norman"
+71,1999,American Beauty,Bruce Cohen and Dan Jinks
+72,2000,Gladiator,"Douglas Wick, David Franzoni, and Branko Lustig"
+73,2001,A Beautiful Mind,Brian Grazer and Ron Howard
+74,2002,Chicago,Martin Richards
+75,2003,The Lord of the Rings: The Return of the King,"Barrie M. Osborne, Peter Jackson, and Fran Walsh"
+76,2004,Million Dollar Baby,"Clint Eastwood, Albert S. Ruddy, and Tom Rosenberg"
+77,2005,Crash,Paul Haggis and Cathy Schulman
+78,2006,The Departed,Graham King
+79,2007,No Country for Old Men,"Scott Rudin, Joel Coen, and Ethan Coen"
+80,2008,Slumdog Millionaire,Christian Colson
+81,2009,The Hurt Locker,"Kathryn Bigelow, Mark Boal, Nicolas Chartier, and Greg Shapiro"
+82,2010,The King's Speech,"Iain Canning, Emile Sherman, and Gareth Unwin"
+83,2011,The Artist,Thomas Langmann
+84,2012,Argo,"Grant Heslov, Ben Affleck, and George Clooney"
+85,2013,12 Years a Slave,"Brad Pitt, Dede Gardner, Jeremy Kleiner, Steve McQueen, and Anthony Katagas"
+86,2014,Birdman or (The Unexpected Virtue of Ignorance),"Alejandro G. Iñárritu, John Lesher, and James W. Skotchdopole"
+87,2015,Spotlight,"Blye Pagon Faust, Steve Golin, Nicole Rocklin, and Michael Sugar"
+88,2016,Moonlight,"Adele Romanski, Dede Gardner, and Jeremy Kleiner"
+89,2017,The Shape of Water,Guillermo del Toro and J. Miles Dale
+90,2018,Green Book,"Jim Burke, Charles B. Wessler, Brian Currie, Peter Farrelly, and Nick Vallelonga"
+91,2019,Parasite,Kwak Sin-ae and Bong Joon-ho
+92,2020,Nomadland,"Frances McDormand, Peter Spears, Mollye Asher, Dan Janvey, and Chloé Zhao"
+93,2021,CODA,"Philippe Rousselet, Fabrice Gianfermi, and Patrick Wachsberger"
